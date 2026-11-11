@@ -1,0 +1,11 @@
+
+{
+	"id": "task_block_mover",
+	"name": "Task Block Mover",
+	"version": "0.1.0",
+	"minAppVersion": "1.8.10",
+	"description": "Move markdown task blocks from the active note to another note in the vault.",
+	"author": "Denis Rylikov",
+	"authorUrl": "https://github.com/drylikov",
+	"isDesktopOnly": false
+}
